@@ -1,0 +1,28 @@
+.title{
+    display: inline-flex;
+}
+h1{
+    
+    font-size: 3rem;
+    font-weight: lighter;
+    font-style: normal;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+   border: 5px solid black;
+   
+    color: rgb(30, 0, 255);
+}
+body{
+    background-image: url(boo.jpg);
+}
+p{
+    padding-left:  4rem;;
+
+}
+.video{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1.5rem;
+    
+}
